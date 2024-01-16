@@ -1,0 +1,4 @@
+[submodule "poc-ui"]
+	path = poc-ui
+	url = https://github.com/valere-margins/unisport-ui.git
+	branch = fix/poc-1-fix-components-styles
